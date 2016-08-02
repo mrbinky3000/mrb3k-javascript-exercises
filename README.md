@@ -1,4 +1,4 @@
-#Chase JavaScript Skills Test
+#JavaScript Skills Test
 ##Directions
 Simply unzip this folder to your desktop, open the skillstest folder and double click on index.html.  It will open the test results in a web browser.
 
